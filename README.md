@@ -10,6 +10,7 @@ Temizle ve çözümleme butonları ile kullanıcı etkileşimi sağlar.
 SQL Server bağlantısı ile veri işlemleri gerçekleştirir.
 
 🛠️ Kullanılan Teknolojiler
+
 --C# (.NET Framework)
 
 --SQL Server (ADO.NET ile bağlantı)
